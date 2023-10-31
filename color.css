@@ -4,6 +4,9 @@ body{
 p {
     color: red;
 }
+.gato{
+    color: rgb(255, 0, 255);
+}
 .holanda{
     color: rgb(0, 255, 26);
 }
